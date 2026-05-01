@@ -38,7 +38,7 @@ const disadhi = {
   role: "Aspiring Full Stack Developer",
   passion: "Building modern, useful and creative software",
   focus: ["Web Development", "AI Tools", "Data-Driven Systems"],
-  currentlyLearning: ["React", "Python", "TypeScript", "Streamlit"],
+  currentlyLearning: ["React", "Next.js", "Tailwind CSS", "Python", "Java", "JavaScript", "TypeScript", "Streamlit"],
   interests: ["UI/UX", "Full Stack Apps", "Machine Learning"],
   goal: "Create impactful digital solutions"
 };
@@ -46,7 +46,7 @@ const disadhi = {
 
 - 🌱 I’m currently improving my skills in **Full Stack Development**
 - 💻 I enjoy building **web applications**, **data-driven systems**, and **AI-powered tools**
-- 🚀 Interested in **React, Python, JavaScript, TypeScript, Streamlit, and UI/UX**
+- 🚀 Interested in **React, Next.js, Tailwind CSS, Python, Java, JavaScript, TypeScript, Streamlit, and UI/UX**
 - 🤝 Open to collaborating on **open-source** and project-based software ideas
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/disadhiranasinghe)**
 
@@ -54,15 +54,58 @@ const disadhi = {
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack
+<!-- ===================== WHAT I ENJOY WORKING ON ===================== -->
 
 <div align="center">
+
+## ✨ What I Enjoy Working On
+
+<img src="https://img.shields.io/badge/Web%20Applications-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AI%20Tools-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Data%20Systems-0F172A?style=for-the-badge&logo=databricks&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-0F172A?style=for-the-badge&logo=figma&logoColor=38BDF8" />
+
+</div>
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F97316" />
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+
+</div>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<div align="center">
+
+## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=F97316" />
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6" />
 
 <br><br>
 
@@ -72,24 +115,41 @@ const disadhi = {
 
 <br><br>
 
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+
+<br><br>
+
 ### ⚙️ Backend, Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,vercel&theme=dark" />
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" />
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=00758F" />
+<img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <br><br>
 
 ### 🤖 AI Tools
 
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+<img src="https://img.shields.io/badge/Gemini-0F172A?style=for-the-badge&logo=googlegemini&logoColor=4285F4" />
 
 <br><br>
 
 ### 🧰 Tools & IDEs
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-0F172A?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-0F172A?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6" />
+<img src="https://img.shields.io/badge/Python%20IDLE-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Canva-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+<img src="https://img.shields.io/badge/Antigravity-0F172A?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
 
@@ -136,32 +196,6 @@ const disadhi = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=disdyy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/PerformEdge/PerformEdge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerformEdge&repo=PerformEdge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/disdyy/Property-search-react-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Property-search-react-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/disdyy/Traffic-Data-Analysis-System-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Traffic-Data-Analysis-System-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/disdyy/ai-employee-performance-risk-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=ai-employee-performance-risk-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
 
 </div>
 
