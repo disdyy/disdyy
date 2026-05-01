@@ -74,7 +74,7 @@ const disadhi = {
 
 ### ⚙️ Backend, Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
 
 <br><br>
 
@@ -88,7 +88,7 @@ const disadhi = {
 
 ### 🧰 Tools & IDEs
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,intellij idea,netbeans,Antigravity&theme=dark" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 </div>
@@ -140,33 +140,6 @@ const disadhi = {
 </div>
 
 ---
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/PerformEdge/PerformEdge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerformEdge&repo=PerformEdge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/disdyy/Property-search-react-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Property-search-react-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/disdyy/Traffic-Data-Analysis-System-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Traffic-Data-Analysis-System-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/disdyy/ai-employee-performance-risk-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=ai-employee-performance-risk-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
 <!-- ===================== CONNECT WITH ME ===================== -->
 
 ## 🌐 Connect With Me
