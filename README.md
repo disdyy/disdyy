@@ -1,11 +1,3 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
-
-<div align="center">
-
-type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Disadhi%20Ranasinghe&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data-Driven%20Solutions&descAlignY=58&descSize=17" />
-
-</div>
-
 <!-- ===================== TYPING ANIMATION ===================== -->
 
 <div align="center">
