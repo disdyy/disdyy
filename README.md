@@ -1,14 +1,14 @@
-<!-- ===================== HERO HEADER ===================== -->
+<!-- ===================== DREAMY ANIMATED HEADER ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:1F6FEB,70:8A2BE2,100:FF69B4&text=Disadhi%20Ranasinghe&fontColor=ffffff&fontSize=48&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20%E2%9C%A8%20AI%20%7C%20Web%20%7C%20Data-Driven%20Solutions&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:1F6FEB,55:8A2BE2,85:FF69B4,100:0D1117&text=Disadhi%20Ranasinghe&fontColor=FFFFFF&fontSize=50&fontAlignY=35&animation=twinkling&desc=Aspiring%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20%7C%20Web%20%7C%20Data-Driven%20Solutions&descSize=17&descAlignY=57" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=900&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Disadhi+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;I+build+modern+web+applications+%E2%9C%A8;Passionate+about+AI+%26+Data-Driven+Solutions+%F0%9F%A4%96;Always+Learning+%7C+Always+Creating+%7C+Always+Improving+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Disadhi+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;I+love+building+modern+web+applications+%E2%9C%A8;Exploring+AI%2C+Data+%26+Creative+Technology+%F0%9F%A4%96;Always+Learning+%7C+Always+Building+%7C+Always+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -18,8 +18,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=8A2BE2" />
-<img src="https://img.shields.io/badge/Open%20Source-Lover-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Always-Learning-FFB000?style=for-the-badge&logo=sparkles&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Always%20Learning-FFB000?style=for-the-badge&logo=sparkles&logoColor=white" />
 
 </div>
 
@@ -27,20 +27,20 @@
 
 <div align="center">
 
-### 🌸 Welcome to my GitHub profile 🌸  
-#### A little space where I share my coding journey, projects, ideas, and growth.
+### ✨ Welcome to my little corner of GitHub ✨  
+#### I build, learn, explore, and turn ideas into digital experiences.
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ===================== BEAUTIFUL ABOUT ME ===================== -->
 
 <div align="center">
 
-## 👩‍💻 About Me
+## 🌸 About Me 🌸
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2700&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Creative+Developer+in+Progress+%E2%9C%A8;Turning+ideas+into+real+digital+solutions;Learning%2C+building%2C+and+improving+every+day" alt="About Me Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Creative+Developer+in+Progress+%E2%9C%A8;Passionate+about+Web%2C+AI+and+Data;Learning+every+day+and+building+with+purpose" alt="About Me Animation" />
 
 </div>
 
@@ -48,32 +48,31 @@
 
 <table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### 🌟 Who I Am
+<h3 align="center">💫 Who I Am</h3>
 
-Hi, I’m **Disadhi Ranasinghe**, an aspiring **Full Stack Developer** who loves building clean, useful, and creative digital experiences.
+<p align="center">
+Hi, I’m <b>Disadhi Ranasinghe</b>, an aspiring <b>Full Stack Developer</b> who enjoys creating clean, modern, and meaningful digital solutions.
+</p>
 
-I enjoy creating **modern web applications**, exploring **AI tools**, and working with **data-driven systems**.  
-My goal is to grow as a developer while building projects that solve real-world problems.
-
-<br>
-
-### 💫 My Developer Mindset
-
-> “Learn deeply, build creatively, and improve continuously.”
+<p align="center">
+I love building <b>web applications</b>, exploring <b>AI tools</b>, and learning how technology can solve real-world problems.
+</p>
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### 🚀 Quick Highlights
+<h3 align="center">🚀 What I’m Into</h3>
 
-- 🌱 Currently learning **Full Stack Development**
-- 💻 Building **web apps and data-driven projects**
-- 🤖 Interested in **AI tools and automation**
-- 🎨 Love clean **UI/UX design**
-- 📊 Exploring **Machine Learning basics**
-- 🤝 Open to collaboration and new ideas
+<p align="center">
+🌐 Web Development <br>
+🤖 AI Tools & Automation <br>
+📊 Data-Driven Applications <br>
+🎨 Modern UI/UX Design <br>
+🧠 Machine Learning Basics <br>
+🤝 Open Source Collaboration
+</p>
 
 </td>
 </tr>
@@ -83,12 +82,9 @@ My goal is to grow as a developer while building projects that solve real-world 
 
 <div align="center">
 
-### 💖 What I Love Working On
+### 🌟 My Developer Vibe
 
-<img src="https://img.shields.io/badge/Web%20Applications-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Driven%20Systems-FF69B4?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-FFB000?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F7B731&center=true&vCenter=true&width=850&lines=Dream+it+%E2%9C%A8+Design+it+%F0%9F%8E%A8+Build+it+%F0%9F%92%BB;Small+steps+every+day+create+big+results;Learning+deeply+and+building+creatively" alt="Developer Vibe" />
 
 </div>
 
@@ -96,9 +92,12 @@ My goal is to grow as a developer while building projects that solve real-world 
 
 <div align="center">
 
-### 🎯 My Goal
+### 💖 Things I Love Working With
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F7B731&center=true&vCenter=true&width=850&lines=To+create+beautiful+and+useful+software;To+build+projects+that+make+life+easier;To+grow+as+a+creative+and+confident+developer" alt="Goal Animation" />
+<img src="https://img.shields.io/badge/Web%20Applications-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Systems-FF69B4?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-FFB000?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
@@ -294,28 +293,20 @@ My goal is to grow as a developer while building projects that solve real-world 
 
 ---
 
-<!-- ===================== FINAL MESSAGE ===================== -->
+<!-- ===================== ANIMATED FOOTER ===================== -->
 
 <div align="center">
 
-## ✨ Thank You for Visiting ✨
+## ✨ Thanks for Visiting ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Thanks+for+stopping+by+my+profile!;I+am+still+learning%2C+still+building%2C+and+still+growing;Let's+create+something+beautiful+together+%F0%9F%92%96" alt="Final Typing Animation" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=780&lines=Thanks+for+stopping+by+my+profile+%F0%9F%92%96;Still+learning%2C+still+building%2C+still+growing+%F0%9F%8C%B1;Let's+create+something+beautiful+together+%E2%9C%A8" alt="Footer Typing Animation" />
 
 <br><br>
 
 ### 🌙 Code. Create. Learn. Repeat. 🌙
 
-</div>
+<br>
 
-<!-- ===================== FOOTER ===================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF69B4,35:8A2BE2,70:1F6FEB,100:0D1117&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,25:FF69B4,55:8A2BE2,85:1F6FEB,100:0D1117&section=footer&animation=twinkling" />
 
 </div>
