@@ -31,7 +31,7 @@
 
 <div align="center">
 
-### “Building with curiosity, learning with purpose, and growing through every project.”
+### “Building with curiosity, learning with purpose and growing through every project.”
 
 </div>
 
@@ -51,11 +51,11 @@
 
 ### Hello there 👋
 
-I’m **Disadhi Ranasinghe**, an aspiring **Full Stack Developer** who enjoys creating clean, useful, and creative digital experiences.
+I’m **Disadhi Ranasinghe**, an aspiring **Software Engineer** who enjoys creating clean, useful and creative digital experiences.
 
-I’m interested in building **modern web applications**, exploring **AI tools**, and working with **data-driven systems** that can solve real-world problems.
+I’m interested in building **modern web applications**, exploring **AI tools** and working with **data-driven systems** that can solve real-world problems.
 
-I’m currently focused on improving my development skills, building practical projects, and growing step by step as a confident software developer.
+I’m currently focused on improving my development skills, building practical projects and growing step by step as a confident software developer.
 
 </td>
 <td width="40%" valign="top">
@@ -64,7 +64,7 @@ I’m currently focused on improving my development skills, building practical p
 
 ```yaml
 name: Disadhi Ranasinghe
-role: Aspiring Full Stack Developer
+role: Aspiring Software Engineer
 focus:
   - Web Development
   - AI Tools
@@ -108,6 +108,7 @@ goal: Build useful and impactful software
 
 <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=java&logoColor=FFD43B" />
 <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
