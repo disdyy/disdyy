@@ -1,24 +1,24 @@
 <div align="center">
 
 <h1>
-  Hi, I'm Disadhi Ranasinghe
+  Disadhi Ranasinghe
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
-<h3>Aspiring Full Stack Developer | AI & Data-Driven Solutions Enthusiast</h3>
+<h3>Aspiring Software Engineer | Full Stack Development | AI & Data-Driven Solutions</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=I+build+modern+and+meaningful+web+applications;I+enjoy+working+with+AI+tools+and+data-driven+systems;Learning+every+day+to+become+a+better+developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Always+Learning+%26+Always+Building;Building+modern+and+meaningful+web+applications;Exploring+AI+tools+and+data-driven+systems;Growing+one+project+at+a+time" alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://github.com/disdyy">
-  <img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=0ea5e9&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 </a>
 <a href="https://github.com/disdyy?tab=followers">
-  <img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=flat-square&color=0ea5e9" />
+  <img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=0ea5e9" />
 </a>
 <a href="https://www.linkedin.com/in/disadhiranasinghe">
-  <img src="https://img.shields.io/badge/LinkedIn-Disadhi%20Ranasinghe-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Disadhi%20Ranasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-### “Building with curiosity, learning with purpose and growing through every project.”
+### “Building with curiosity, learning with purpose, and growing through every project.”
 
 </div>
 
@@ -47,18 +47,18 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ### Hello there 👋
 
-I’m **Disadhi Ranasinghe**, an aspiring **Software Engineer** who enjoys creating clean, useful and creative digital experiences.
+I’m **Disadhi Ranasinghe**, an aspiring **Software Engineer** who enjoys creating clean, useful, and creative digital experiences.
 
-I’m interested in building **modern web applications**, exploring **AI tools** and working with **data-driven systems** that can solve real-world problems.
+I’m interested in building **modern web applications**, exploring **AI tools**, and working with **data-driven systems** that can solve real-world problems.
 
-I’m currently focused on improving my development skills, building practical projects and growing step by step as a confident software developer.
+I’m currently focused on improving my development skills, building practical projects, and growing step by step as a confident software developer.
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 ### Quick Snapshot
 
@@ -73,6 +73,7 @@ focus:
 currently_learning:
   - React
   - Python
+  - Java
   - JavaScript
   - TypeScript
   - Streamlit
@@ -98,17 +99,15 @@ goal: Build useful and impactful software
 
 ---
 
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
 <div align="center">
 
 ## Currently Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Improving+my+skills+through+projects;Learning+by+building+real+applications;Growing+one+commit+at+a+time" alt="Learning Animation" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=java&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F97316" />
 <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
@@ -116,6 +115,8 @@ goal: Build useful and impactful software
 </div>
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 <div align="center">
 
@@ -174,18 +175,17 @@ goal: Build useful and impactful software
 <img src="https://img.shields.io/badge/NetBeans-0F172A?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6" />
 <img src="https://img.shields.io/badge/Python%20IDLE-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
 <img src="https://img.shields.io/badge/Antigravity-0F172A?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
 
 </div>
 
 ---
 
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
 <div align="center">
 
 ## GitHub Analytics
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Tracking+my+coding+journey;Every+commit+is+progress;Learning+through+building" alt="Analytics Animation" />
-
-<br><br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=disdyy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
 
@@ -199,13 +199,11 @@ goal: Build useful and impactful software
 
 ---
 
+<!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
+
 <div align="center">
 
 ## GitHub Achievements
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Small+wins+build+big+growth" alt="Trophy Animation" />
-
-<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=disdyy&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 
@@ -213,13 +211,11 @@ goal: Build useful and impactful software
 
 ---
 
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
 <div align="center">
 
 ## Contribution Graph
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Code.+Commit.+Learn.+Repeat.;My+growth+over+time" alt="Contribution Animation" />
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=disdyy&bg_color=0F172A&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true" />
 
@@ -227,13 +223,11 @@ goal: Build useful and impactful software
 
 ---
 
+<!-- ===================== CONNECT WITH ME ===================== -->
+
 <div align="center">
 
 ## Connect With Me
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Open+to+collaboration+and+new+ideas;Let's+connect+and+grow+together" alt="Connect Animation" />
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/disadhiranasinghe">
   <img src="https://img.shields.io/badge/LinkedIn-Disadhi%20Ranasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -246,6 +240,8 @@ goal: Build useful and impactful software
 </div>
 
 <br>
+
+<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
