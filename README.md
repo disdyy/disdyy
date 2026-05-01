@@ -1,19 +1,38 @@
-<!-- ===================== FIXED HEADER ===================== -->
+<!-- ===================== NEW TECH GIF HEADER ===================== -->
 
 <div align="center">
 
-<h1>
-  Disadhi Ranasinghe
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-</h1>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding GIF" />
 
-<h3>Aspiring Full Stack Developer | AI & Data-Driven Solutions</h3>
+<br><br>
 
-<p><em>Building modern web applications with curiosity, creativity, and purpose</em></p>
+<h1 align="center">Disadhi Ranasinghe 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:8B5CF6,100:38BDF8" width="80%" />
+<h3 align="center">
+Aspiring Full Stack Developer | AI & Data-Driven Solutions
+</h3>
+
+<p align="center">
+  <em>Building modern web applications with curiosity, creativity, and purpose</em>
+</p>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Disadhi+Ranasinghe+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;React+%7C+Python+%7C+JavaScript+%7C+AI;Building+Modern+Web+Applications;Always+Learning+%26+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:8B5CF6,100:38BDF8" width="85%" />
 
 </div>
+
+---
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 
