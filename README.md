@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=3000&pause=1000&color=FF8CC6&center=true&vCenter=true&width=850&lines=Disadhi+Ranasinghe" alt="Disadhi Ranasinghe" />
+<img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&duration=3000&pause=1000&color=FF8CC6&center=true&vCenter=true&width=850&lines=Disadhi+Ranasinghe" alt="Disadhi Ranasinghe" />
 
 <br>
 
