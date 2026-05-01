@@ -1,26 +1,44 @@
-<!-- ===================== ELEGANT NAME HEADER ===================== -->
+<!-- ===================== PREMIUM HEADER ===================== -->
 
 <div align="center">
 
-# **Disadhi Ranasinghe**
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Disadhi%20Ranasinghe&fontSize=52&fontColor=58A6FF&fontAlignY=45&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data-Driven%20Solutions&descSize=17&descAlignY=78&descColor=C9D1D9" width="100%" />
 
-### `Aspiring Software Engineer` • `Full Stack Development` • `AI & Data-Driven Solutions`
-
-<p>
-  <img src="https://img.shields.io/badge/Always%20Learning-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Always%20Building-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-38BDF8?style=flat-square" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Disadhi+Ranasinghe;Passionate+about+Web%2C+AI+%26+Data;Building+with+purpose+and+creativity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+modern+web+applications;Exploring+AI+%26+data-driven+solutions;Learning+every+day+%E2%80%A2+Building+with+purpose;Turning+ideas+into+real+digital+experiences" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:8B5CF6,100:38BDF8" width="80%" />
+<img src="https://img.shields.io/badge/Always%20Learning-0D1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Always%20Building-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Open%20to%20Collaboration-0D1117?style=for-the-badge&logo=handshake&logoColor=58A6FF" />
+
+<br><br>
+
+<a href="https://github.com/disdyy">
+  <img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+</a>
+<a href="https://github.com/disdyy?tab=followers">
+  <img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=58A6FF" />
+</a>
+<a href="https://www.linkedin.com/in/disadhiranasinghe">
+  <img src="https://img.shields.io/badge/LinkedIn-Disadhi%20Ranasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:8B5CF6,100:EC4899" width="90%" />
+
+<br><br>
+
+<samp>
+  “Building with curiosity, learning with purpose, and growing through every project.”
+</samp>
 
 </div>
 
 <br>
+
+---
 <!-- ===================== TYPING ANIMATION ===================== -->
 
 <div align="center">
