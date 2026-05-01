@@ -72,6 +72,8 @@ focus:
   - UI/UX Design
 currently_learning:
   - React
+  - Next.js
+  - Tailwind CSS
   - Python
   - Java
   - JavaScript
@@ -106,6 +108,8 @@ goal: Build useful and impactful software
 ## Currently Learning
 
 <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
 <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F97316" />
 <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -153,6 +157,8 @@ goal: Build useful and impactful software
 
 <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" />
 <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=00758F" />
+<img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <br><br>
 
@@ -170,12 +176,12 @@ goal: Build useful and impactful software
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0F172A?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Canva-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC" />
 <img src="https://img.shields.io/badge/NetBeans-0F172A?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6" />
 <img src="https://img.shields.io/badge/Python%20IDLE-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Antigravity-0F172A?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Canva-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC" />
 <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+<img src="https://img.shields.io/badge/Antigravity-0F172A?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
 
