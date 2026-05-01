@@ -41,50 +41,44 @@
 
 <div align="center">
 
-## About Me
+## 👋 About Me
 
 </div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-### Hello there 👋
-
-I’m **Disadhi Ranasinghe**, an aspiring **Software Engineer** who enjoys creating clean, useful, and creative digital experiences.
-
-I’m interested in building **modern web applications**, exploring **AI tools**, and working with **data-driven systems** that can solve real-world problems.
-
-I’m currently focused on improving my development skills, building practical projects, and growing step by step as a confident software developer.
+```js
+const disadhi = {
+  name: "Disadhi Ranasinghe",
+  role: "Aspiring Software Engineer",
+  passion: "Building modern, useful and creative software",
+  focus: ["Web Development", "AI Tools", "Data-Driven Systems"],
+  currentlyLearning: ["React", "Python", "Java", "JavaScript", "TypeScript", "Streamlit"],
+  interests: ["UI/UX", "Full Stack Apps", "Machine Learning"],
+  goal: "Create impactful digital solutions"
+};
+```
 
 </td>
-<td width="45%" valign="top">
+<td width="40%" align="center">
 
-### Quick Snapshot
-
-```yaml
-name: Disadhi Ranasinghe
-role: Aspiring Software Engineer
-focus:
-  - Web Development
-  - AI Tools
-  - Data-Driven Systems
-  - UI/UX Design
-currently_learning:
-  - React
-  - Next.js
-  - Tailwind CSS
-  - Python
-  - Java
-  - JavaScript
-  - TypeScript
-  - Streamlit
-goal: Build useful and impactful software
-```
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
 
 </td>
 </tr>
 </table>
+
+<br>
+
+- 🌱 I’m currently improving my skills in **Full Stack Development**
+- 💻 I enjoy building **web applications, data-driven systems, and AI-powered tools**
+- 🚀 Interested in **React, Python, Java, JavaScript, TypeScript, Streamlit, and UI/UX**
+- 🤝 Open to collaborating on **open-source** and project-based software ideas
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/disadhiranasinghe)**
+
+---
 
 <br>
 
@@ -124,64 +118,53 @@ goal: Build useful and impactful software
 
 <div align="center">
 
-## Tech Stack
+<!-- ===================== TECH STACK ===================== -->
 
-### Programming Languages
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=F97316" />
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6" />
-
-<br><br>
-
-### Frontend Development
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+### ⚙️ Backend, Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,vercel&theme=dark" />
 
 <br><br>
 
-### Backend, Database & Cloud
+### 🤖 AI Tools
 
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" />
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=00758F" />
-<img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=ai&theme=dark" />
 
-<br><br>
+<br>
 
-### AI Tools
-
-<img src="https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=D97757" />
-<img src="https://img.shields.io/badge/Gemini-0F172A?style=for-the-badge&logo=googlegemini&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" />
 
 <br><br>
 
-### Tools & IDEs
+### 🧰 Tools & IDEs
 
-<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-0F172A?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/NetBeans-0F172A?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6" />
-<img src="https://img.shields.io/badge/Python%20IDLE-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Canva-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC" />
-<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
-<img src="https://img.shields.io/badge/Antigravity-0F172A?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20IDLE-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logo=google&logoColor=white" />
 
 </div>
 
