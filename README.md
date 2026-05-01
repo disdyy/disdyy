@@ -1,30 +1,30 @@
-<!-- ===================== CLEAN ANIMATED HEADER ===================== -->
+<!-- ===================== PROFESSIONAL ANIMATED HEADER ===================== -->
 
 <div align="center">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=58&duration=3000&pause=1000&color=FF8CC6&center=true&vCenter=true&width=850&lines=Disadhi+Ranasinghe" alt="Disadhi Ranasinghe" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=56&duration=3200&pause=1200&color=F472B6&center=true&vCenter=true&width=900&height=80&lines=Disadhi+Ranasinghe" alt="Disadhi Ranasinghe" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+Full+Stack+Developer;AI+%26+Data-Driven+Solutions+Enthusiast;Creating+modern+web+experiences+with+purpose" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer;AI+%26+Data-Driven+Solutions+Enthusiast;Building+modern+web+applications+with+purpose;Learning+continuously+%E2%80%A2+Building+creatively" alt="Typing Introduction" />
 
 <br><br>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=FF8CC6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=F472B6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=38BDF8" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-C084FC?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-A78BFA?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=B8C7D9&center=true&vCenter=true&width=850&lines=Building+with+creativity%2C+curiosity%2C+and+purpose+%E2%9C%A8;Always+learning.+Always+building.+Always+improving." alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1200&color=CBD5E1&center=true&vCenter=true&width=850&lines=Creating+digital+experiences+with+creativity%2C+curiosity%2C+and+care+%E2%9C%A8" alt="Profile Quote" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF8CC6,50:C084FC,100:38BDF8" width="75%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F472B6,50:A78BFA,100:38BDF8" width="82%" />
 
 <br>
 
