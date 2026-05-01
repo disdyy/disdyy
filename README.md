@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1200&color=CBD5E1&center=true&vCenter=true&width=850&lines=Creating+digital+experiences+with+creativity%2C+curiosity%2C+and+care+%E2%9C%A8" alt="Profile Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1200&color=CBD5E1&center=true&vCenter=true&width=850&lines=Creating+digital+experiences+with+creativity%2C+curiosity+and+care+%E2%9C%A8" alt="Profile Quote" />
 
 <br><br>
 
@@ -51,7 +51,7 @@ const disadhi = {
 
 - 🌱 I’m currently improving my skills in **Full Stack Development**
 - 💻 I enjoy building **web applications**, **data-driven systems**, and **AI-powered tools**
-- 🚀 Interested in **React, Next.js, Tailwind CSS, Python, Java, JavaScript, TypeScript, Streamlit, and UI/UX**
+- 🚀 Interested in **React, Next.js, Tailwind CSS, Python, Java, JavaScript, TypeScript, Streamlit and UI/UX**
 - 🤝 Open to collaborating on **open-source** and project-based software ideas
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/disadhiranasinghe)**
 
