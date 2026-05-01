@@ -1,23 +1,22 @@
-<!-- ===================== PROFESSIONAL NAME HEADER ===================== -->
+<!-- ===================== ELEGANT NAME HEADER ===================== -->
 
 <div align="center">
 
-<h1>
-  Disadhi Ranasinghe
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+# **Disadhi Ranasinghe**
 
-<h3>
-  Aspiring Software Engineer | Full Stack Development | AI & Data-Driven Solutions
-</h3>
+### `Aspiring Software Engineer` • `Full Stack Development` • `AI & Data-Driven Solutions`
 
 <p>
-  <samp>
-    Building with curiosity · Learning with purpose · Growing through every project
-  </samp>
+  <img src="https://img.shields.io/badge/Always%20Learning-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Always%20Building-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-38BDF8?style=flat-square" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:8B5CF6,100:38BDF8" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Disadhi+Ranasinghe;Passionate+about+Web%2C+AI+%26+Data;Building+with+purpose+and+creativity" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:8B5CF6,100:38BDF8" width="80%" />
 
 </div>
 
