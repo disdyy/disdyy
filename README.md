@@ -145,17 +145,6 @@ const disadhi = {
 
 ### 🧰 Tools & IDEs
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" />
-  <img src="https://cdn.simpleicons.org/apachenetbeanside/1B6AC6" width="48" height="48" alt="NetBeans" />
-  <img src="https://cdn.simpleicons.org/python/FFD43B" width="48" height="48" alt="Python IDLE" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
-  <img src="https://cdn.simpleicons.org/google/FFFFFF" width="48" height="48" alt="Antigravity" />
-</p>
-
-<br>
-
 <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
