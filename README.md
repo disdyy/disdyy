@@ -28,29 +28,74 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+<div align="center">
 
-<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+## 👩‍💻 About Me
 
-```js
-const disadhi = {
-  name: "Disadhi Ranasinghe",
-  role: "Aspiring Full Stack Developer",
-  passion: "Building modern, useful and creative software",
-  focus: ["Web Development", "AI Tools", "Data-Driven Systems"],
-  currentlyLearning: ["React", "Python", "TypeScript", "Streamlit"],
-  interests: ["UI/UX", "Full Stack Apps", "Machine Learning"],
-  goal: "Create impactful digital solutions"
-};
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;Creative+Problem+Solver;AI+%26+Data-Driven+Solutions+Enthusiast;Always+Learning+%7C+Always+Building" alt="About Me Typing Animation" />
 
-- 🌱 I’m currently improving my skills in **Full Stack Development**
-- 💻 I enjoy building **web applications**, **data-driven systems**, and **AI-powered tools**
-- 🚀 Interested in **React, Python, JavaScript, TypeScript, Streamlit, and UI/UX**
-- 🤝 Open to collaborating on **open-source** and project-based software ideas
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/disadhiranasinghe)**
+</div>
 
-<br clear="right"/>
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🌟 Who I Am
+
+Hi, I’m **Disadhi Ranasinghe**, an aspiring **Full Stack Developer** who enjoys creating modern, useful, and creative software solutions.
+
+I love working with **web applications**, **AI tools**, and **data-driven systems** while continuously improving my development skills.
+
+</td>
+<td width="50%">
+
+### 🚀 What I’m Focused On
+
+- 🌐 Web Development  
+- 🤖 AI Tools & Automation  
+- 📊 Data-Driven Applications  
+- 🎨 Modern UI/UX Design  
+- 🧠 Machine Learning Basics  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🛠️ Currently Learning
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 My Goal
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7B731&center=true&vCenter=true&width=650&lines=To+create+impactful+digital+solutions;To+build+projects+that+solve+real+problems;To+grow+as+a+creative+software+developer" alt="Goal Typing Animation" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/disadhiranasinghe">
+  <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -74,7 +119,8 @@ const disadhi = {
 
 ### ⚙️ Backend, Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br><br>
 
@@ -88,8 +134,15 @@ const disadhi = {
 
 ### 🧰 Tools & IDEs
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,intellij idea,netbeans,Antigravity&theme=dark" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
 
@@ -140,6 +193,33 @@ const disadhi = {
 </div>
 
 ---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/PerformEdge/PerformEdge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerformEdge&repo=PerformEdge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/disdyy/Property-search-react-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Property-search-react-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/disdyy/Traffic-Data-Analysis-System-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Traffic-Data-Analysis-System-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/disdyy/ai-employee-performance-risk-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=ai-employee-performance-risk-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+---
+
 <!-- ===================== CONNECT WITH ME ===================== -->
 
 ## 🌐 Connect With Me
@@ -158,7 +238,7 @@ const disadhi = {
 
 ---
 
-
+<!-- ===================== FINAL MESSAGE ===================== -->
 
 <div align="center">
 
