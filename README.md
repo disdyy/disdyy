@@ -1,16 +1,14 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== HERO HEADER ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Disadhi%20Ranasinghe&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data-Driven%20Solutions&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:1F6FEB,70:8A2BE2,100:FF69B4&text=Disadhi%20Ranasinghe&fontColor=ffffff&fontSize=48&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20%E2%9C%A8%20AI%20%7C%20Web%20%7C%20Data-Driven%20Solutions&descAlignY=58&descSize=17" />
 
 </div>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Disadhi+Ranasinghe+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;React+%7C+Python+%7C+JavaScript+%7C+AI;Building+Modern+Web+Applications;Always+Learning+%26+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=900&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Disadhi+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;I+build+modern+web+applications+%E2%9C%A8;Passionate+about+AI+%26+Data-Driven+Solutions+%F0%9F%A4%96;Always+Learning+%7C+Always+Creating+%7C+Always+Improving+%F0%9F%9A%80" alt="Typing Animation" />
 
 </div>
 
@@ -18,9 +16,19 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=8A2BE2" />
+<img src="https://img.shields.io/badge/Open%20Source-Lover-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Always-Learning-FFB000?style=for-the-badge&logo=sparkles&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌸 Welcome to my GitHub profile 🌸  
+#### A little space where I share my coding journey, projects, ideas, and growth.
 
 </div>
 
@@ -32,7 +40,7 @@
 
 ## 👩‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;Creative+Problem+Solver;AI+%26+Data-Driven+Solutions+Enthusiast;Always+Learning+%7C+Always+Building" alt="About Me Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2700&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Creative+Developer+in+Progress+%E2%9C%A8;Turning+ideas+into+real+digital+solutions;Learning%2C+building%2C+and+improving+every+day" alt="About Me Animation" />
 
 </div>
 
@@ -40,24 +48,32 @@
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
 ### 🌟 Who I Am
 
-Hi, I’m **Disadhi Ranasinghe**, an aspiring **Full Stack Developer** who enjoys creating modern, useful, and creative software solutions.
+Hi, I’m **Disadhi Ranasinghe**, an aspiring **Full Stack Developer** who loves building clean, useful, and creative digital experiences.
 
-I love working with **web applications**, **AI tools**, and **data-driven systems** while continuously improving my development skills.
+I enjoy creating **modern web applications**, exploring **AI tools**, and working with **data-driven systems**.  
+My goal is to grow as a developer while building projects that solve real-world problems.
+
+<br>
+
+### 💫 My Developer Mindset
+
+> “Learn deeply, build creatively, and improve continuously.”
 
 </td>
-<td width="50%">
+<td width="45%" valign="top">
 
-### 🚀 What I’m Focused On
+### 🚀 Quick Highlights
 
-- 🌐 Web Development  
-- 🤖 AI Tools & Automation  
-- 📊 Data-Driven Applications  
-- 🎨 Modern UI/UX Design  
-- 🧠 Machine Learning Basics  
+- 🌱 Currently learning **Full Stack Development**
+- 💻 Building **web apps and data-driven projects**
+- 🤖 Interested in **AI tools and automation**
+- 🎨 Love clean **UI/UX design**
+- 📊 Exploring **Machine Learning basics**
+- 🤝 Open to collaboration and new ideas
 
 </td>
 </tr>
@@ -67,7 +83,32 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 <div align="center">
 
-### 🛠️ Currently Learning
+### 💖 What I Love Working On
+
+<img src="https://img.shields.io/badge/Web%20Applications-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Driven%20Systems-FF69B4?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-FFB000?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎯 My Goal
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F7B731&center=true&vCenter=true&width=850&lines=To+create+beautiful+and+useful+software;To+build+projects+that+make+life+easier;To+grow+as+a+creative+and+confident+developer" alt="Goal Animation" />
+
+</div>
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+<div align="center">
+
+## 🌱 Currently Learning
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -77,33 +118,13 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 </div>
 
-<br>
-
-<div align="center">
-
-### 💡 My Goal
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7B731&center=true&vCenter=true&width=650&lines=To+create+impactful+digital+solutions;To+build+projects+that+solve+real+problems;To+grow+as+a+creative+software+developer" alt="Goal Typing Animation" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/disadhiranasinghe">
-  <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
 ---
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 🛠️ Tech Stack
-
 <div align="center">
+
+## 🛠️ My Tech Toolbox
 
 ### 👩‍💻 Programming Languages
 
@@ -111,9 +132,24 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+<br><br>
+
 ### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 <br><br>
 
@@ -150,13 +186,11 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=disdyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disdyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Tracking+my+coding+journey+one+commit+at+a+time+%F0%9F%92%BB" alt="Stats Animation" />
 
 </div>
 
@@ -164,7 +198,17 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=disdyy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=disdyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FFB000&text_color=C9D1D9" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disdyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=disdyy&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FFB000&currStreakLabel=FF69B4" />
 
 </div>
 
@@ -172,11 +216,11 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 <!-- ===================== TROPHIES ===================== -->
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=disdyy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=disdyy&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -184,11 +228,11 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=disdyy&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=disdyy&bg_color=0D1117&color=FF69B4&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -196,24 +240,32 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
+<div align="center">
+
 ## 📌 Featured Projects
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=700&lines=Some+projects+I'm+proud+of+%E2%9C%A8;Building%2C+learning%2C+and+improving+through+projects" alt="Projects Animation" />
+
+</div>
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/PerformEdge/PerformEdge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerformEdge&repo=PerformEdge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PerformEdge&repo=PerformEdge&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/disdyy/Property-search-react-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Property-search-react-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Property-search-react-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/disdyy/Traffic-Data-Analysis-System-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Traffic-Data-Analysis-System-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=Traffic-Data-Analysis-System-&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/disdyy/ai-employee-performance-risk-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=ai-employee-performance-risk-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disdyy&repo=ai-employee-performance-risk-prediction&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -222,9 +274,13 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 <!-- ===================== CONNECT WITH ME ===================== -->
 
+<div align="center">
+
 ## 🌐 Connect With Me
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Let's+connect+and+build+something+amazing+%F0%9F%9A%80" alt="Connect Animation" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/disadhiranasinghe">
   <img src="https://img.shields.io/badge/LinkedIn-Disadhi%20Ranasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -242,15 +298,24 @@ I love working with **web applications**, **AI tools**, and **data-driven system
 
 <div align="center">
 
-### ✨ Always learning, always building, always improving ✨
+## ✨ Thank You for Visiting ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Thanks+for+stopping+by+my+profile!;I+am+still+learning%2C+still+building%2C+and+still+growing;Let's+create+something+beautiful+together+%F0%9F%92%96" alt="Final Typing Animation" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="80%" />
+
+<br><br>
+
+### 🌙 Code. Create. Learn. Repeat. 🌙
 
 </div>
 
+<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2c5364,50:203a43,100:0f2027&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF69B4,35:8A2BE2,70:1F6FEB,100:0D1117&section=footer" />
 
 </div>
