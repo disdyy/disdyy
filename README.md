@@ -1,50 +1,11 @@
-<!-- ===================== PREMIUM NAME HEADER ===================== -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Disadhi+Ranasinghe" alt="Disadhi Ranasinghe" />
-</h1>
-
-<h3>
-  Aspiring Software Engineer | Full Stack Developer | AI & Data-Driven Solutions
-</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+modern+web+applications;Exploring+AI+%26+data-driven+solutions;Learning+every+day+%E2%80%A2+Building+with+purpose;Turning+ideas+into+real+digital+experiences" alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Always%20Learning-0D1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Always%20Building-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Open%20to%20Collaboration-0D1117?style=for-the-badge&logo=handshake&logoColor=58A6FF" />
-
-<br><br>
-
-<a href="https://github.com/disdyy">
-  <img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-</a>
-<a href="https://github.com/disdyy?tab=followers">
-  <img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=58A6FF" />
-</a>
-<a href="https://www.linkedin.com/in/disadhiranasinghe">
-  <img src="https://img.shields.io/badge/LinkedIn-Disadhi%20Ranasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:8B5CF6,100:EC4899" width="90%" />
-
-<br><br>
-
-<samp>
-  “Building with curiosity, learning with purpose, and growing through every project.”
-</samp>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Disadhi%20Ranasinghe&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data-Driven%20Solutions&descAlignY=58&descSize=17" />
 
 </div>
 
-<br>
-
----
 <!-- ===================== TYPING ANIMATION ===================== -->
 
 <div align="center">
@@ -197,6 +158,15 @@ const disadhi = {
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=disdyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disdyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
 <br>
 
 <div align="center">
