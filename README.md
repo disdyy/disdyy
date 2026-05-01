@@ -2,15 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:1F6FEB,70:7C3AED,100:EC4899&text=Disadhi%20Ranasinghe&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=twinkling&desc=Aspiring%20Full%20Stack%20Developer%20%E2%9C%A8%20AI%20%7C%20Data-Driven%20Solutions&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:1F6FEB,70:7C3AED,100:EC4899&text=Disadhi%20Ranasinghe&fontColor=EC4899&fontSize=48&fontAlignY=38&animation=twinkling&desc=Aspiring%20Full%20Stack%20Developer%20%E2%9C%A8%20AI%20%7C%20Data-Driven%20Solutions&descAlignY=60&descSize=18&descColor=ffffff" />
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Girl GIF" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Disadhi+Ranasinghe+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Creating+modern+web+applications;React+%7C+Python+%7C+JavaScript+%7C+TypeScript;Exploring+AI+tools+and+data-driven+solutions;Always+learning+%26+always+building+%F0%9F%92%99" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Disadhi+Ranasinghe+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Creating+modern+web+applications;React+%7C+Python+%7C+JavaScript+%7C+TypeScript;Exploring+AI+tools+and+data-driven+solutions;Always+learning+%26+always+building+%F0%9F%92%97" alt="Typing SVG" />
 
 <br><br>
 
@@ -20,19 +16,19 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Always%20Learning-0D1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Always%20Building-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Open%20to%20Collaboration-0D1117?style=for-the-badge&logo=handshake&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Always%20Learning-0D1117?style=for-the-badge&logo=bookstack&logoColor=EC4899" />
+<img src="https://img.shields.io/badge/Always%20Building-0D1117?style=for-the-badge&logo=github&logoColor=EC4899" />
+<img src="https://img.shields.io/badge/Open%20to%20Collaboration-0D1117?style=for-the-badge&logo=handshake&logoColor=EC4899" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=7C3AED" />
+<img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=EC4899&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=EC4899" />
 <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-EC4899?style=for-the-badge&logo=github&logoColor=white" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:7C3AED,100:EC4899" width="85%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:EC4899,50:7C3AED,100:38BDF8" width="85%" />
 
 </div>
 
