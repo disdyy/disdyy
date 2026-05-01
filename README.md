@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Disadhi%20Ranasinghe&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data-Driven%20Solutions&descAlignY=58&descSize=17" />
+type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Disadhi%20Ranasinghe&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data-Driven%20Solutions&descAlignY=58&descSize=17" />
 
 </div>
 
@@ -158,15 +158,6 @@ const disadhi = {
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=disdyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disdyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
 <br>
 
 <div align="center">
