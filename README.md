@@ -1,10 +1,16 @@
-<!-- ===================== PREMIUM HEADER ===================== -->
+<!-- ===================== PREMIUM NAME HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Disadhi%20Ranasinghe&fontSize=52&fontColor=58A6FF&fontAlignY=45&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data-Driven%20Solutions&descSize=17&descAlignY=78&descColor=C9D1D9" width="100%" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Disadhi+Ranasinghe" alt="Disadhi Ranasinghe" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+modern+web+applications;Exploring+AI+%26+data-driven+solutions;Learning+every+day+%E2%80%A2+Building+with+purpose;Turning+ideas+into+real+digital+experiences" alt="Typing SVG" />
+<h3>
+  Aspiring Software Engineer | Full Stack Developer | AI & Data-Driven Solutions
+</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+modern+web+applications;Exploring+AI+%26+data-driven+solutions;Learning+every+day+%E2%80%A2+Building+with+purpose;Turning+ideas+into+real+digital+experiences" alt="Typing SVG" />
 
 <br><br>
 
