@@ -1,8 +1,17 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== FIXED HEADER ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Disadhi%20Ranasinghe&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data-Driven%20Solutions&descAlignY=58&descSize=17" />
+<h1>
+  Disadhi Ranasinghe
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+</h1>
+
+<h3>Aspiring Full Stack Developer | AI & Data-Driven Solutions</h3>
+
+<p><em>Building modern web applications with curiosity, creativity, and purpose</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58A6FF,50:8B5CF6,100:38BDF8" width="80%" />
 
 </div>
 
@@ -14,6 +23,17 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=disdyy&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/disdyy?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+---
 <br>
 
 <div align="center">
